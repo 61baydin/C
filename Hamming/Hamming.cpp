@@ -25,6 +25,6 @@ int main(){
 	printf("Hamming Sayisi Sinirini Giriniz: ");
 	scanf("%d",&sayi);
 	hamming(sayi);	
-
 	
+	return 0;
 }
